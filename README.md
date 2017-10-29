@@ -1,18 +1,16 @@
-BOT KICK V2.0
+BOT KICK.
 
-Bot akan langsung kick jika ada :
+Bot akan langsung kick kalau ada 
 - Member Ngusir Member lain atau Calon Member Lain
 
-Fungsinya cuman 4 :
+Fungsinya :
 - Cek Speed Bot
 - Kick semua member
 - NgeTag semua member ( Beta )
-- Spam lagu JKT48 - oogoe diamond
 
 Keyword :
-- Salken All = Buat test kecepatan Bot
-- Mulai = Buat mulai ngekick member satu per satu
-- Tagall = Tag semua member ( Beta )
-- Spam = Spam lirik lagu JKT48 - oogoe diamond
+- Speed = Buat test kecepatan Bot
+- Kick all = Buat mulai ngekick member satu per satu
+- Tag all = Tag semua member ( Beta )
 
-Created By Farzain - zFz
+Created By MKHADAFFY
